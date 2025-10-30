@@ -1,6 +1,5 @@
-========================================================================
-Generic Windows Process Monitoring Template - Simple Version
-========================================================================
+**Generic Windows Process Monitoring Template - Simple Version**
+
 
 REQUIREMENTS - Add to zabbix_agent2.conf:
 -------------------------------------------------------
